@@ -43,7 +43,7 @@ function App() {
         <br/>
         <br/>
         <p>
-          Learn wiht <code>Algorithmic Visualizer</code> and see how algortihms work.
+          Learn with <code>Algorithmic Visualizer</code> and see how algortihms work.
         </p> 
       </header>
     </div>
