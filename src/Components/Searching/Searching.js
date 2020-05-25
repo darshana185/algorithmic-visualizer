@@ -5,6 +5,8 @@ function Searching(){
     
 return(
     <header className="App-header">
+        <br/>
+        <br/>
         <p>
           <code>Searching Working</code>
         </p> 
