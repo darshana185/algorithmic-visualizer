@@ -1,16 +1,16 @@
 import React from 'react';
-import './sorting.css'
+import './searching.css'
 
-function Sorting(){
+function Searching(){
     
 return(
     <header className="App-header">
         <p>
-          <code>Sorting Working</code>
+          <code>Searching Working</code>
         </p> 
     </header>
 );
 }
 
 
-export default Sorting;
+export default Searching;
